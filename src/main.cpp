@@ -1,5 +1,6 @@
 #include <Arduino.h>
 
+// Change this if you want more pins
 #define PIN_MASK 0b1111111111111111
 
 #define PIN_NOT_USED 0xff
