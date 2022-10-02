@@ -1,7 +1,9 @@
-# JTAGscan
+# JTAGscan for Raspberry Pi Pico
 
 JTAGscan allows you to find JTAG ports without buying expensive hardware like the JTAGulator.
 All you need is a Arduino compatible board and optionally a logic level shifter.
+
+This version os optimized for Raspberry PI Pico boards (RP2040). By default it uses the first 16 bits for scanning.
 
 ## How does it work?
 
